@@ -1,0 +1,9 @@
+﻿[Info]: [String] : Info message from string!
+[Warning]: [String] : Warning message from string!
+[Error]: [String] : Error message from string. Exception of type 'System.Exception' was thrown.
+[Info]: [String] : Info message from int!
+[Warning]: [String] : Warning message from int!
+[Error]: [String] : Error message from int. Exception of type 'System.Exception' was thrown.
+[Info]: [String] : Info message from double array!
+[Warning]: [String] : Warning message from double array!
+[Error]: [String] : Error message from double array. Exception of type 'System.Exception' was thrown.
